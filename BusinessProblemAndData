@@ -1,6 +1,11 @@
 Introduction/Business Problem:
 
-An internet service company based out of Phoenix is looking to expand its market share in the City. The company was providing services to 2 kinds of customers - individual customers and families; and small and medium size businesses. It was found out that the profit earned from small-size business such as restaurants, Fast Food chains was quite high; however,the company's market share of such customers was quite low (about 5%). From market research the root cause for such a small market share was due to the customers not aware of the company and it's services. Now, the internet service company aims to identify and target all the fast food and restaurant businesses using Foursquare API.
+An internet service company based out of Phoenix is looking to expand its market share in the City. The company was providing services to 2
+kinds of customers - individual customers and families; and small and medium size businesses. It was found out that the profit earned from 
+small-size business such as restaurants, Fast Food chains was quite high; however,the company's market share of such customers was quite 
+low (about 5%). From market research the root cause for such a small market share was due to the customers not aware of the company and 
+it's services. Now, the internet service company aims to identify and target all the fast food and restaurant businesses using Foursquare 
+API.
 
 
 Data:
