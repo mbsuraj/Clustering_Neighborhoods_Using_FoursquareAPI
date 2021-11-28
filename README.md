@@ -13,9 +13,7 @@ refer to Neighborhood_of_Phoenix.ipynb
 rest of the code is just exploratory.
 
 ## Data:
-
 1. Phoenix zip codes were simplye taken out from google search as in below link:
 https://www.google.com/search q=phoenix+zip+codes&rlz=1C1CHZL_enIN746IN746&oq=phoenix+zip+codes&aqs=chrome..69i57j0l7.3844j1j4&sourceid=chrome&ie=UTF-8
 2. The zip code data exported from the above link is also uploaded in the link below:
 https://github.com/mbsuraj/Clustering_Neighborhoods_Using_FoursquareAPI/blob/master/Phoenix_Zip.csv
-
